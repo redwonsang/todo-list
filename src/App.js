@@ -16,7 +16,8 @@ class App extends Component {
       { id: 2, text: ' 리액트 소개9', checked: false }
     ]
   }
-  
+ 
+  // 여기는메인 브랜치 
   
   handleChange = (e) => {
     this.setState({
