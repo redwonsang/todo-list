@@ -7,12 +7,6 @@ class App extends Component {
   id = 3; // 이미 0,1,2 가 존재하므로 3으로 설정 abbbbb
   //id = 3 // 이미 0,1,2 가 존재하므로 3으로 설정 abbbbb
   // test react
-  // test react
-  // test react
-  // test react
-  // test react
-  // test react
-  // test react
 
   state = {
     input: "",
